@@ -1,6 +1,6 @@
 <!-- 背景图片样式 -->
 <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: -1; opacity: 0.1;">
-  <img src="https://cdn.pixabay.com/photo/2024/02/18/13/13/ai-generated-8581182_1280.jpg" alt="背景图" style="width: 100%; height: 100%; object-fit: cover;" />
+  <img src="[https://cdn.pixabay.com/photo/2024/02/18/13/13/ai-generated-8581182_1280.jpg](https://github.com/user-attachments/assets/a10c88fd-ae9f-4cbf-85bd-6833c44bc054)" alt="背景图" style="width: 100%; height: 100%; object-fit: cover;" />
 </div>
 
 <!-- 你的个人主页内容 -->
